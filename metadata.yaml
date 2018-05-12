@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31442
     wikipedia: http://en.wikipedia.org/wiki/Antonio_de_Trueba
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25593#Contos-escolhidos-de-D.-Antonio-de-Trueba
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2008-05-25'
 gutenberg_type: Text
