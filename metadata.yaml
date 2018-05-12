@@ -1,0 +1,46 @@
+_repo: Contos-escolhidos-de-D.-Antonio-de-Trueba_25593
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Barbosa, Inácio de Vilhena
+    alias: Barbosa, Inacio de Vilhena
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '7206'
+    url: http://www.gutenberg.org/2009/agents/7206
+  translator:
+    agent_name: Monteiro, F. de Castro
+    gutenberg_agent_id: '31441'
+    url: http://www.gutenberg.org/2009/agents/31441
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trueba, Antonio de
+    aliases:
+    - Quintana, Antonio Manuel María de Trueba y la
+    - Trueba y la Quintana, Antonio Manuel María de
+    - De Trueba, Antonio
+    - Quintana, Antonio Manuel Maria de Trueba y la
+    - Trueba, António de
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '31442'
+    url: http://www.gutenberg.org/2009/agents/31442
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_de_Trueba
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2008-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25593'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PQ'
+title: Contos escolhidos de D. Antonio de Trueba
+url: http://www.gutenberg.org/ebooks/25593
